@@ -1,3 +1,7 @@
+Submitted By
+Joydeep Saggu
+2019UIT3042
+
 # Oxytocin
 An Idea Management tool created using HTML, CSS and vanilla javascript.
 ## Introduction
@@ -21,5 +25,5 @@ This project was part of an online test of oxytocin company to shortlist student
 └───js
 ```
 # Live link of website
- <a href="https://akamourya18.github.io/Oxytocin/" target="_blank"> Click Here</a>
+ <a href="https://joysagoo.github.io/sticky-notes-oxytocin" target="_blank"> Click Here</a>
 # Link to demo video of the project
