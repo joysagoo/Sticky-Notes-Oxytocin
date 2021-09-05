@@ -1,5 +1,7 @@
 Submitted By
+
 Joydeep Saggu
+
 2019UIT3042
 
 # Oxytocin
@@ -24,6 +26,3 @@ This project was part of an online test of oxytocin company to shortlist student
 ├───images
 └───js
 ```
-# Live link of website
- <a href="https://joysagoo.github.io/sticky-notes-oxytocin" target="_blank"> Click Here</a>
-# Link to demo video of the project
